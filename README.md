@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component
 
-![Design preview for the Results summary component coding challenge](./preview.jpg)
+![Design preview for the Results summary component coding challenge](https://github.com/AbdeL-DevHub/results-summary-component-main/blob/main/thumbnail.png)
 
 ## Welcome! 👋
 
